@@ -1,3 +1,3 @@
 # shubh.repo
 my first git repo.
-Author Shubham katyan
+Author- Shubham katyan
